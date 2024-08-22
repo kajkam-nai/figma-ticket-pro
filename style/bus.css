@@ -1,0 +1,25 @@
+/* .bus {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+*/
+.row {
+    display: flex;
+    gap: 30px;
+    row-gap: 10px;
+    margin: 20px 35px;
+}
+
+
+ .seat {
+    width: 60px;
+    height: 40px;
+    background-color: #F7F8F8;
+    color: #03071280;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
